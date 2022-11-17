@@ -6,5 +6,5 @@ def main(n):
     Returns:
         result : float
     """
-    return 
+    return 0
 
